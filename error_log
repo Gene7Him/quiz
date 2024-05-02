@@ -1,0 +1,28 @@
+[02-May-2024 17:27:22 UTC] Unable to open views/home.html
+[02-May-2024 17:27:22 UTC] [328/quiz/index.php:21] Preview->render()
+[02-May-2024 17:27:22 UTC] [328/quiz/index.php:25] Base->run()
+[02-May-2024 17:44:01 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/genegree/public_html/328/quiz/index.php on line 58
+[02-May-2024 17:44:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/genegree/public_html/328/quiz/index.php on line 58
+[02-May-2024 17:44:16 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/genegree/public_html/328/quiz/index.php on line 58
+[02-May-2024 17:44:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/genegree/public_html/328/quiz/index.php on line 58
+[02-May-2024 17:45:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/genegree/public_html/328/quiz/index.php on line 66
+[02-May-2024 17:47:55 UTC] HTTP 405 (POST /survey/midterms)
+[02-May-2024 17:47:55 UTC] [328/quiz/index.php:63] Base->run()
+[02-May-2024 17:49:39 UTC] HTTP 405 (POST /survey/midterms)
+[02-May-2024 17:49:39 UTC] [328/quiz/index.php:65] Base->run()
+[02-May-2024 17:50:52 UTC] HTTP 404 (GET /summary)
+[02-May-2024 17:50:52 UTC] [328/quiz/index.php:65] Base->run()
+[02-May-2024 17:52:50 UTC] HTTP 404 (GET /view/summary)
+[02-May-2024 17:52:50 UTC] [328/quiz/index.php:65] Base->run()
+[02-May-2024 17:54:55 UTC] HTTP 404 (GET /view/summary)
+[02-May-2024 17:54:55 UTC] [328/quiz/index.php:65] Base->run()
+[02-May-2024 17:55:16 UTC] HTTP 404 (GET /summary)
+[02-May-2024 17:55:16 UTC] [328/quiz/index.php:65] Base->run()
+[02-May-2024 17:56:18 UTC] HTTP 404 (GET /summary)
+[02-May-2024 17:56:18 UTC] [328/quiz/index.php:65] Base->run()
+[02-May-2024 17:58:35 UTC] HTTP 404 (GET /summary)
+[02-May-2024 17:58:35 UTC] [328/quiz/index.php:70] Base->run()
+[02-May-2024 18:00:57 UTC] HTTP 404 (GET /summary)
+[02-May-2024 18:00:57 UTC] [328/quiz/index.php:70] Base->run()
+[02-May-2024 18:01:41 UTC] HTTP 404 (GET /summary)
+[02-May-2024 18:01:41 UTC] [328/quiz/index.php:70] Base->run()
